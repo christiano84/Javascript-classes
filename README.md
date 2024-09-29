@@ -1,2 +1,2 @@
-Back to studying Javascript before I do anything with frontend (or front and back end) frameworks ilke Next.JS.
+Back to studying Javascript before I start learning front and backend frameworks ilke Next.JS.
 
